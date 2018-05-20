@@ -16,7 +16,7 @@
 * jQuery 
 
 
-# Maintained and contributed by
+### Maintained and contributed by
 
 * Mojib Mohammad
 * mojib_monir@yahoo.com
